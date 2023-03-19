@@ -1,4 +1,5 @@
 /*
+    Problem: https://cses.fi/problemset/task/1646
     Task: range sum query
     Technique: naive
     Time complexity of the RSQ: O(n)
